@@ -2,7 +2,7 @@
 <manialink version="3">
 <!--page title xd-->
 <frame pos="10 10" z-index="0">
-	<quad pos="-170 80" z-index="-100" size="320 180" image="file://Media/Images/valleybg.jpg" />
+	<quad pos="-170 80" z-index="-100" size="320 180" image="https://raw.githubusercontent.com/ketrub/ketrubs-epic-manialink/refs/heads/main/valleybg.jpg" />
    <!--quad pos="-180 80" z-index="0" size="330 200" bgcolor="333" opacity="1" /-->
 	<label pos="38 1" z-index="2" style="TextTitle1" textemboss="1" textsize="20" text="ketrub"/>
 	<label pos="42 -20" z-index="2" style="TextButtonSmall" size="20" text="POWERED BY"/>
@@ -19,7 +19,7 @@
 	<label pos="-129 13" z-index="3" style="TextTitle1" textsize="3" text="and I won't drop it just like"/>
 	<label pos="-129 7" z-index="3" style="TextTitle1" textsize="3" text="every other random project."/>
 	
-	<quad pos="-129 -20" z-index="3" size="50 50" image="file://Media/Images/19.png"/>
+	<quad pos="-129 -20" z-index="3" size="50 50" image="https://raw.githubusercontent.com/ketrub/ketrubs-epic-manialink/refs/heads/main/19.png"/>
 	<label pos="-129 -72" z-index="3" style="TextTitle1" textsize="1" text="random car skin i found (just a pic)"/>
 	
 	
